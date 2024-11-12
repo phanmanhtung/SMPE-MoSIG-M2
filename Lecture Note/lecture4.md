@@ -69,4 +69,4 @@
 
 ---
 
-**Summary**: DMPs help make data organized, shareable, and safe, ensuring research stays valuable and usable over time.
+**Summary**: DMPs help make data organized, shareable, and safe, ensuring research stays valuable and usable over time
