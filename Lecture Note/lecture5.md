@@ -1,7 +1,7 @@
 
 # Lecture Summaries
 
-## Lecture 1: Why Visualization Matters
+## Why Visualization Matters
 
 ### Key Points
 - **Presentation of Data**:
@@ -14,7 +14,7 @@
   - Always plot your data to avoid misleading analyses.
   - A visualization tells a story that raw statistics cannot, revealing potential flaws in data interpretation or analysis.
 
-## Lecture 2: Correlation vs. Causation
+## Correlation vs. Causation
 
 ### Key Points
 - **Correlation Basics**:
