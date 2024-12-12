@@ -10,10 +10,12 @@ Karl Popper's "Conjectures and Refutations" revolves around the idea of distingu
   - Applying the checklist for good graphics.
   - Proposing a better representation (hand-drawing is fine) that passes the checklist.
 - [ ] **Report this work** for at least 3 figures in your GitHub/GitLab project.
-- [ ] **MOOC:** Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload it to your GitHub/GitLab space.
+- [x] **MOOC:** Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload it to your GitHub/GitLab space.
+
+Link: https://colab.research.google.com/drive/1p-Q1D6JYmGppe9HBkkhFilvDHj1Rltip?usp=sharing
 
 ## Week 3: Clearly Defining the Experiment and Tools
-- [ ] Complete previous homeworks:
+- [x] Complete previous homeworks:
   - [ ] Summarize Popper’s text and upload it to your GitHub repository.
   - [ ] Critique at least 3 figures from Jean-Marc’s slides:
     - [ ] Apply the checklist for good graphics.
@@ -29,7 +31,7 @@ Karl Popper's "Conjectures and Refutations" revolves around the idea of distingu
 - [ ] Share findings on the Pad and/or on your public fork of the project.
 
 ## Week 4: Follow-up Experiments | Data Management Tips
-- [ ] Complete previous homeworks:
+- [x] Complete previous homeworks:
   - [ ] Popper, Challenger, Checklist for Good Graphics.
 - [ ] Continue the hands-on exercise by improving experiment design and analysis:
   - [ ] Share findings on the Pad and/or on your public fork of the project.
@@ -55,12 +57,14 @@ Karl Popper's "Conjectures and Refutations" revolves around the idea of distingu
 
 ## Week 7: Linear Model, Multiple Testing, and ANOVA | Design of Experiments (DoE)
 - [ ] Keep building intuition on linear models.
-- [ ] Attempt to complete the peer evaluation of the MOOC on Reproducible Research.
+- [x] Attempt to complete the peer evaluation of the MOOC on Reproducible Research.
+
+Link: https://colab.research.google.com/drive/1p-Q1D6JYmGppe9HBkkhFilvDHj1Rltip?usp=sharing
 
 ## Week 8: DoE | Scientific Integrity 2
 - [ ] Continue building intuition on linear models.
 - [ ] Mature the DoE techniques covered in the lecture.
-- [ ] Attempt to complete the peer evaluation of the MOOC on Reproducible Research.
+- [x] Attempt to complete the peer evaluation of the MOOC on Reproducible Research.
 
 ## Week 9: Bayesian Perspective on Regularization and Model Selection | Sequential DoE
 - [ ] Review Bayesian statistics concepts:
