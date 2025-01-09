@@ -1,5 +1,7 @@
 # SMPE-MoSIG-M2
 
+Presentation link: https://docs.google.com/presentation/d/1ZWEmJT038zvco1ZzkBV9FRVPz1dRYgVcxZK3kcgleg0/edit?usp=sharing
+
 ## Week 2:
 
 - [x] **Read Popper’s text** and write a short summary in your GitHub repository.
